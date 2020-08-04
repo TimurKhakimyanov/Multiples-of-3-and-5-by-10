@@ -1,5 +1,11 @@
-#Код для выделения всех натуральных чисел меньше 10 которые кратны 3 и 5 и нахождения их  суммы.January 18,2019
+#Code for selecting all natural numbers less than 10 that are multiples of 3 and 5 and finding their sum.
 #January , 2019
+
+
+#Код для выделения всех натуральных чисел меньше 10 которые кратны 3 и 5 и нахождения их  суммы.
+#Январь 2019
+
+
 ten = int(10)
 three = int(3)
 five = int(5)
